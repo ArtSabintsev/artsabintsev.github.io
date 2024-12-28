@@ -83,10 +83,13 @@ h1 {
 @media (max-width: 600px) {
     body {
         padding: 1.5rem;
+        align-items: flex-start;
+        padding-top: 2rem;
     }
 
     .container {
         padding: 1.5rem;
+        margin-top: 0;
     }
 
     .profile {
