@@ -1,3 +1,3 @@
-# sabintsev.com
+# homepage
 
-Personal homepage hosted on GitHub Pages.
+Personal homepage for sabintsev.com hosted on GitHub Pages.
