@@ -1,7 +1,7 @@
 # Arthur Ariel Sabintsev
 
 ## About
-Personal homepage for Arthur Ariel Sabintsev.
+- Personal homepage for Arthur Ariel Sabintsev.
 
 ## Projects
 - Grove: https://grove.city
@@ -12,10 +12,9 @@ Personal homepage for Arthur Ariel Sabintsev.
 - LinkedIn: https://linkedin.com/in/artsabintsev
 - Telegram: https://t.me/artsabintsev/
 
-## Crypto Wallet Addresses
+## Tip Addresses
 - BTC: bc1qygwglv3ptn043z3k8jtu5v8ncrc4852f4kukvy
 - EVM: 0xaa444C1470ad2618e1ce0d7de8BF9a56C28BBCc2
 - ETH: 0xaa444C1470ad2618e1ce0d7de8BF9a56C28BBCc2
 - USDC: 0xaa444C1470ad2618e1ce0d7de8BF9a56C28BBCc2
-- USDC(base): 0xaa444C1470ad2618e1ce0d7de8BF9a56C28BBCc2
 - SOL: GEfzSJJ6pNWh1DK6ms15ujLvvaomUKemQqhTU2LMMsSK
