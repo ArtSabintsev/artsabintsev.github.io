@@ -5,7 +5,7 @@ Personal homepage for Arthur Ariel Sabintsev.
 
 ## Projects
 - Grove: https://grove.city
-- Pocket Network: https://pokt.network
+- Pocket Network: https://pocket.network
 
 ## Social
 - X (Twitter): https://x.com/artsabintsev
