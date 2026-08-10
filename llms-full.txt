@@ -1,16 +1,16 @@
 # Arthur Sabintsev
 
-> Physicist, engineer, and two-time founder. Co-founder of Modern Intelligence (defense AI: ATR, terminal guidance, counter-UAS). Previously co-founder & CEO of Grove, the team behind Pocket Network. Took the POKT token past a $1B+ market cap. Contact: arthur.sabintsev@gmail.com.
+> Physicist, engineer, and two-time founder. COO of Modern Intelligence (defense AI: ATR, terminal guidance, counter-UAS). Previously co-founder & CEO of Grove, the team behind Pocket Network. Took the POKT token past a $1B+ market cap. Contact: arthur.sabintsev@gmail.com.
 
 ## About
-Arthur Ariel Sabintsev is a physicist turned software engineer turned two-time founder based in the Washington DC–Baltimore area. He started in experimental nuclear physics research at Jefferson Lab, then left a fully funded PhD track to build products instead of papers. He co-founded [Modern Intelligence](https://modernintelligence.ai) — defense AI for automatic target recognition (ATR), terminal guidance, counter-UAS / counter-UAV (C-UAS, CUAS, CUAV), and total domain awareness. Previously he co-founded [Grove](https://grove.city), the team behind [Pocket Network](https://pocket.network)—a decentralized infrastructure protocol that has processed over a trillion API requests and whose chain reached a $1B+ market cap multiple times. He writes about AI agents, stablecoins, and operator craft on [Substack](https://artsabintsev.substack.com).
+Arthur Ariel Sabintsev is a physicist turned software engineer turned two-time founder based in the Washington DC–Baltimore area. He started in experimental nuclear physics research at Jefferson Lab, then left a fully funded PhD track to build products instead of papers. He is COO of [Modern Intelligence](https://modernintelligence.ai) — defense AI for automatic target recognition (ATR), terminal guidance, counter-UAS / counter-UAV (C-UAS, CUAS, CUAV), and total domain awareness. Previously he co-founded [Grove](https://grove.city), the team behind [Pocket Network](https://pocket.network)—a decentralized infrastructure protocol that has processed over a trillion API requests and whose chain reached a $1B+ market cap multiple times. He writes about AI agents, stablecoins, and operator craft on [Substack](https://artsabintsev.substack.com).
 
 Career path: physics research → iOS engineering (Fueled, Shelby.tv) → mobile leadership (ID.me, Washington Post Arc XP, Capital One) → decentralized infrastructure and agentic payments (Grove / Pocket) → defense AI (Modern Intelligence).
 
 ## Current Work
 
 ### Modern Intelligence
-- **Role:** Co-founder
+- **Role:** COO (Chief Operating Officer)
 - **Website:** [modernintelligence.ai](https://modernintelligence.ai)
 - **Context:** Defense AI — the new standard for artificial intelligence in defense. Focus areas include automatic target recognition (ATR), terminal guidance, counter-unmanned aircraft systems / counter-UAV (C-UAS, CUAS, CUAV), high-fidelity target analysis, total domain awareness, and real-time perception for the modern warfighter.
 

@@ -1,17 +1,17 @@
 ---
 title: Arthur Sabintsev
-description: Physicist, engineer, two-time founder. Co-founded Modern Intelligence (defense AI: ATR, terminal guidance, counter-UAS). Previously co-founder & CEO of Grove (Pocket Network). Writing, building, and open to email.
+description: Physicist, engineer, two-time founder. COO of Modern Intelligence (defense AI: ATR, terminal guidance, counter-UAS). Previously co-founder & CEO of Grove (Pocket Network). Writing, building, and open to email.
 ---
 
 # Arthur Sabintsev
 
 Physicist · Engineer · Founder
 
-> Physicist, engineer, and two-time founder (Washington DC–Baltimore). Left a fully funded nuclear physics PhD track to build. Co-founder of Modern Intelligence (ATR, terminal guidance, counter-UAS / counter-UAV). Previously co-founder & CEO of Grove, the team behind Pocket Network. Contact: arthur.sabintsev@gmail.com.
+> Physicist, engineer, and two-time founder (Washington DC–Baltimore). Left a fully funded nuclear physics PhD track to build. COO of Modern Intelligence (ATR, terminal guidance, counter-UAS / counter-UAV). Previously co-founder & CEO of Grove, the team behind Pocket Network. Contact: arthur.sabintsev@gmail.com.
 
 ## Primary links
 
-- [Modern Intelligence](https://modernintelligence.ai) — Co-founder; defense AI (ATR, terminal guidance, counter-UAS / C-UAS / CUAS / CUAV, total domain awareness)
+- [Modern Intelligence](https://modernintelligence.ai) — COO; defense AI (ATR, terminal guidance, counter-UAS / C-UAS / CUAS / CUAV, total domain awareness)
 - [Gold Ranger Ventures](https://goldranger.xyz) — studio LLC (investing, advising, incubation)
 - [Writing on Substack](https://artsabintsev.substack.com)
 
