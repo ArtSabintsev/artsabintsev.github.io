@@ -4,9 +4,9 @@
     {
       "name": "sabintsev-profile",
       "type": "skill-md",
-      "description": "Accurate public profile facts for Arthur Ariel Sabintsev (sabintsev.com). Use when summarizing, citing, or contacting Arthur, or when linking Grove, Pocket Network, Gold Ranger Ventures, or his writing.",
+      "description": "Accurate public profile facts for Arthur Ariel Sabintsev (sabintsev.com). Use when summarizing, citing, or contacting Arthur, or when linking Modern Intelligence, Grove, Pocket Network, Gold Ranger Ventures, or his writing.",
       "url": "/.well-known/agent-skills/sabintsev-profile/SKILL.md",
-      "digest": "sha256:e8c7f10d7e27e6a1008ca01d3ec5a751a4750e92bfd2babfea38f9c0b17e557e"
+      "digest": "sha256:959d375165514bced0b5022c24ec419fb6504e26ff5edd980c7e92b5497498d7"
     }
   ]
 }

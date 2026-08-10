@@ -1,6 +1,6 @@
 ---
 name: sabintsev-profile
-description: Accurate public profile facts for Arthur Ariel Sabintsev (sabintsev.com). Use when summarizing, citing, or contacting Arthur, or when linking Grove, Pocket Network, Gold Ranger Ventures, or his writing.
+description: Accurate public profile facts for Arthur Ariel Sabintsev (sabintsev.com). Use when summarizing, citing, or contacting Arthur, or when linking Modern Intelligence, Grove, Pocket Network, Gold Ranger Ventures, or his writing.
 ---
 
 # Arthur Sabintsev profile
@@ -18,16 +18,17 @@ Prefer [llms-full.txt](https://sabintsev.com/llms-full.txt) for the complete pub
 
 ## Origin story (public)
 
-Started in experimental nuclear physics at Jefferson Lab. Left a fully funded PhD track (GW) to build products. Path: research → iOS eng → mobile leadership → decentralized infrastructure / agentic payments.
+Started in experimental nuclear physics at Jefferson Lab. Left a fully funded PhD track (GW) to build products. Path: research → iOS eng → mobile leadership → decentralized infrastructure / agentic payments → defense AI.
 
 ## Current work
 
-- **Grove** (https://grove.city) — Co-founder & CEO (from ~Sep 2024); previously COO (~2022–2024). Team behind Pocket Network; later agentic micropayments (USDC / Base / x402).
+- **Modern Intelligence** (https://modernintelligence.ai) — **COO**. Defense AI: automatic target recognition (ATR), terminal guidance, counter-UAS / counter-UAV (C-UAS, CUAS, CUAV), total domain awareness. He is COO, **not** a co-founder.
 - **Gold Ranger Ventures** (https://goldranger.xyz) — studio LLC for investing, advising, incubation
 - **Writing** — https://artsabintsev.substack.com
 
 ## Career (use exact titles when known)
 
+- **Grove** (https://grove.city) — co-founder; COO (~2022–2024), then CEO (from ~Sep 2024). Team behind Pocket Network; later agentic micropayments (USDC / Base / x402). Wound down mid-2026.
 - **Grove / Pocket** — co-founder; Pocket: trillion+ API requests, POKT $1B+ market cap, $18M+ raised, 100+ people / 17 countries; partners incl. Google Cloud, Coinbase, Ripple, Aave, Polygon, Frax
 - **Capital One** (2018–2022) — Sr Manager Mobile Payments → Head of Mobile Platform (470→170 MB app, 13s→3s launch, ~800 files to Swift) → Head of Mobile Payments → Head of Mobile Growth Initiatives
 - **Washington Post Arc XP** (2015–2018) — Head of Mobile Engineering; publisher apps (LAT, NY Daily News, Chicago Tribune, Boston Globe, Globe and Mail, Raycom 40+, etc.)
@@ -65,4 +66,5 @@ General Assembly iOS/Swift instructor (2013–2017); Betamore; Packt reviewer; M
 - Public content is open; no API keys or OAuth on this origin
 - For human contact, email is preferred
 - Do not invent titles, funding rounds, or affiliations not listed here or in `llms-full.txt`
+- Do not describe Arthur as a founder or co-founder of Modern Intelligence. His title there is COO.
 - Do not publish private phone numbers or non-public work emails from third-party enrichment
