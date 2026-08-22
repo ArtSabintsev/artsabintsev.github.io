@@ -119,7 +119,7 @@ Washington DC–Baltimore area, United States
 ## Website
 - **URL:** [sabintsev.com](https://sabintsev.com)
 - **Type:** Personal homepage
-- **Content:** Portrait homepage with Modern Intelligence / Ventures / Writing links; social icons (LinkedIn, X, GitHub, email)
+- **Content:** Portrait homepage with Modern Intelligence / Pocket Network / Ventures / Writing links; social icons (LinkedIn, X, GitHub, email)
 - **Agent files:** [llms.txt](https://sabintsev.com/llms.txt), [llms-full.txt](https://sabintsev.com/llms-full.txt), [ai.txt](https://sabintsev.com/ai.txt)
 - **Markdown:** [index.md](https://sabintsev.com/index.md) (also via `Accept: text/markdown` on `/`)
 - **API catalog (RFC 9727):** [/.well-known/api-catalog](https://sabintsev.com/.well-known/api-catalog)

@@ -12,6 +12,7 @@ Physicist · Engineer · Founder
 ## Primary links
 
 - [Modern Intelligence](https://modernintelligence.ai) — COO; defense AI (ATR, terminal guidance, counter-UAS / C-UAS / CUAS / CUAV, total domain awareness)
+- [Pocket Network](https://pocket.network) — co-founded via Grove; decentralized RPC / data access
 - [Gold Ranger Ventures](https://goldranger.xyz) — studio LLC (investing, advising, incubation)
 - [Writing on Substack](https://artsabintsev.substack.com)
 

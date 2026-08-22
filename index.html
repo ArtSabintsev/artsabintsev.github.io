@@ -100,10 +100,11 @@
             "https://substack.com/@artsabintsev",
             "https://artsabintsev.substack.com",
             "https://goldranger.xyz",
-            "https://modernintelligence.ai"
+            "https://modernintelligence.ai",
+            "https://pocket.network"
           ]
         },
-        "dateModified": "2026-08-09"
+        "dateModified": "2026-08-22"
       },
       {
         "@context": "https://schema.org",
@@ -400,7 +401,7 @@
             }
         }
 
-        /* Mobile only: social vertical top-right; three equal full-width buttons at bottom */
+        /* Mobile only: social vertical top-right; stacked full-width buttons at bottom */
         @media (max-width: 767px) {
             .social {
                 grid-column: 2;
@@ -526,6 +527,7 @@
         <footer class="bottom">
             <nav class="actions" aria-label="Primary">
                 <a href="https://modernintelligence.ai" target="_blank" rel="noopener noreferrer">Modern Intelligence</a>
+                <a href="https://pocket.network" target="_blank" rel="noopener noreferrer">Pocket Network</a>
                 <a href="https://goldranger.xyz" target="_blank" rel="noopener noreferrer">Ventures</a>
                 <a href="https://artsabintsev.substack.com" target="_blank" rel="noopener noreferrer">Writing</a>
             </nav>
@@ -560,6 +562,7 @@
     site: "https://sabintsev.com/",
     links: {
       modernIntelligence: "https://modernintelligence.ai",
+      pocketNetwork: "https://pocket.network",
       ventures: "https://goldranger.xyz",
       writing: "https://artsabintsev.substack.com",
       linkedin: "https://linkedin.com/in/artsabintsev",
@@ -599,7 +602,7 @@
   register({
     name: "get_profile",
     description:
-      "Return Arthur Sabintsev's public profile: name, role, summary, primary destinations (Modern Intelligence, ventures, writing), and agent resource URLs.",
+      "Return Arthur Sabintsev's public profile: name, role, summary, primary destinations (Modern Intelligence, Pocket Network, ventures, writing), and agent resource URLs.",
     inputSchema: {
       type: "object",
       properties: {},
@@ -619,6 +622,7 @@
         site: PROFILE.site,
         primary: {
           modernIntelligence: PROFILE.links.modernIntelligence,
+          pocketNetwork: PROFILE.links.pocketNetwork,
           ventures: PROFILE.links.ventures,
           writing: PROFILE.links.writing,
           fullBio: PROFILE.links.fullBio
@@ -655,7 +659,7 @@
   register({
     name: "list_links",
     description:
-      "List primary outbound links from sabintsev.com (Modern Intelligence, ventures, writing) and optional social links.",
+      "List primary outbound links from sabintsev.com (Modern Intelligence, Pocket Network, ventures, writing) and optional social links.",
     inputSchema: {
       type: "object",
       properties: {
@@ -671,6 +675,7 @@
       var out = {
         primary: [
           { name: "Modern Intelligence", url: PROFILE.links.modernIntelligence },
+          { name: "Pocket Network", url: PROFILE.links.pocketNetwork },
           { name: "Ventures", url: PROFILE.links.ventures },
           { name: "Writing", url: PROFILE.links.writing }
         ]
